@@ -90,7 +90,7 @@ Full-stack service platform with REST APIs, JWT authentication, MongoDB-backed d
 
 ### Problem Solving
 
-**100+ LeetCode problems**
+**LeetCode problems**
 
 Focused on strengthening algorithms, data structures, and problem-solving fundamentals.
 
