@@ -28,7 +28,7 @@ Software engineer | **AI, backend systems, and distributed infrastructure**.
 
 **Node.js, PostgreSQL, Redis, Docker, MongoDB, and AI APIs**, building systems around reliable data flow, automation, and intelligent applications.
 
-Current focus: **AI systems · Backend engineering · Distributed systems · System design**
+Currently : **AI systems · Backend engineering · Distributed systems · System design**
 
 ---
 
