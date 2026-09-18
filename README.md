@@ -24,15 +24,15 @@ Naveen Nampally
 
 ### About
 
-Software engineer focused on **AI, backend systems, and distributed infrastructure**.
+Software engineer | **AI, backend systems, and distributed infrastructure**.
 
-I work across **Node.js, PostgreSQL, Redis, Docker, MongoDB, and AI APIs**, building systems around reliable data flow, automation, and intelligent applications.
+**Node.js, PostgreSQL, Redis, Docker, MongoDB, and AI APIs**, building systems around reliable data flow, automation, and intelligent applications.
 
 Current focus: **AI systems · Backend engineering · Distributed systems · System design**
 
 ---
 
-### What I Work With
+
 
 **Languages**
 
@@ -76,7 +76,7 @@ Full-stack service platform with REST APIs, JWT authentication, MongoDB-backed d
 
 ---
 
-### Engineering Focus
+### Engineering
 
 - Backend architecture
 - Distributed job processing
