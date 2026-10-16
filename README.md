@@ -1,108 +1,102 @@
-<h1 align="center">
-Naveen Nampally
-</h1>
+# Naveen Nampally
 
-<h3 align="center">
-  Software Engineer | AI • Backend • Distributed Systems
-</h3>
+<p align="center">
+  <strong>SOFTWARE ENGINEER · AI SYSTEMS · BACKEND INFRASTRUCTURE</strong>
+</p>
 
 <p align="center">
   <a href="https://naveen-cs50-cse.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://github.com/naveen-cs50-cse">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### About
+### PROFILE
 
-Software engineer | **AI, backend systems, and distributed infrastructure**.
+Engineering reliable backend systems, distributed execution pipelines, and AI-powered applications.
 
-**Node.js, PostgreSQL, Redis, Docker, MongoDB, and AI APIs**, building systems around reliable data flow, automation, and intelligent applications.
-
-Currently : **AI systems · Backend engineering · Distributed systems · System design**
+Focused on **system architecture, data-intensive applications, fault tolerance, and intelligent software** — from API design and database systems to LLM-powered workflows.
 
 ---
 
+### TECHNOLOGY
 
+**Languages**  
+`C++` `C` `Python` `JavaScript`
 
-**Languages**
+**Backend & Databases**  
+`Node.js` `Express.js` `PostgreSQL` `MySQL` `MongoDB` `REST APIs`
 
-`C` `C++` `Python` `JavaScript`
+**Distributed Infrastructure**  
+`Redis` `BullMQ` `Docker` `Job Queues` `Retry Strategies` `Idempotency` `Worker Recovery`
 
-**Backend & Systems**
+**AI Engineering**  
+`LLM Integration` `RAG` `Embeddings` `Semantic Search` `Natural Language → SQL`
 
-`Node.js` `Express.js` `REST APIs` `PostgreSQL` `MongoDB` `MySQL`
-
-**Distributed Systems**
-
-`Redis` `BullMQ` `Docker` `Job Queues` `Retries` `Idempotency` `Worker Recovery`
-
-**AI**
-
-`OpenAI API` `RAG` `Embeddings` `Natural Language → SQL`
-
-**Tools**
-
-`Git` `GitHub` `Postman` `Docker`
+**Developer Tools**  
+`Git` `GitHub` `Postman`
 
 ---
 
-### Selected Work
+### SELECTED SYSTEMS
 
-**TaskFlow — Distributed Job-Processing Platform**
+**TaskFlow** / Distributed Job Orchestration
 
-Fault-tolerant job-processing infrastructure with distributed workers, atomic job ownership, retries, stale-lease recovery, priority queues, idempotent APIs, and operational monitoring.
+Distributed job execution with priority scheduling, retry strategies, idempotent APIs, worker recovery, and operational observability.
 
-**NeuralBI — AI Analytics Platform**
+`Node.js` `PostgreSQL` `Redis` `BullMQ` `Docker`
 
-Natural-language analytics system that converts user questions into SQL, executes queries against structured data, and automatically generates interactive visualizations.
+**NeuralBI** / Natural Language Analytics
 
-**AI Second Brain — Knowledge Retrieval System**
+Translates natural-language questions into SQL, queries structured databases, and generates interactive data visualizations.
 
-RAG-based knowledge system using embeddings, vector similarity search, retrieval ranking, and contextual LLM responses.
+`Node.js` `MySQL` `GPT-4` `Chart.js`
 
-**E-Pet — Service & Booking Platform**
+**AI Second Brain** / Semantic Knowledge Retrieval
 
-Full-stack service platform with REST APIs, JWT authentication, MongoDB-backed data models, bookings, and session management.
+Retrieval-augmented generation with embedding-based similarity search, relevance ranking, and context-aware LLM responses.
 
----
+`Node.js` `OpenAI API` `Embeddings` `RAG`
 
-### Engineering
+**E-Pet** / Full-Stack Service Platform
 
-- Backend architecture
-- Distributed job processing
-- AI & LLM applications
-- Database systems
-- API design
-- System reliability
-- Performance & observability
+Service discovery and booking workflows backed by REST APIs, persistent data models, JWT authentication, and session management.
+
+`Node.js` `Express.js` `MongoDB` `JWT`
 
 ---
 
-### Problem Solving
+### ENGINEERING FOCUS
 
-**LeetCode problems**
-
-Focused on strengthening algorithms, data structures, and problem-solving fundamentals.
+- Backend architecture & API design
+- Distributed systems & asynchronous processing
+- Database design & query execution
+- LLM applications & retrieval pipelines
+- Reliability, fault recovery & observability
+- Data structures & algorithmic problem-solving
 
 ---
 
-### Connect
+### PROBLEM SOLVING
 
-<p align="left">
-  <a href="https://github.com/naveen-cs50-cse">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://naveen-cs50-cse.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+**100+ LeetCode problems solved**
+
+Practicing data structures, algorithms, complexity analysis, and implementation under constraints.
+
+---
+
+<p align="center">
+  <strong>BUILDING SYSTEMS THAT ARE RELIABLE, INTELLIGENT, AND BUILT TO SCALE.</strong>
+</p>
+
+<p align="center">
+  <a href="https://naveen-cs50-cse.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://github.com/naveen-cs50-cse">GitHub</a>
 </p>
