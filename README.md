@@ -86,7 +86,7 @@ Service discovery and booking workflows backed by REST APIs, persistent data mod
 
 ### PROBLEM SOLVING
 
-**100+ LeetCode problems solved**
+**200+ LeetCode problems solved**
 
 Practicing data structures, algorithms, complexity analysis, and implementation under constraints.
 
